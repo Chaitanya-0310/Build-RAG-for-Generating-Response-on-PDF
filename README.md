@@ -2,6 +2,10 @@
 
 This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)** system that enables intelligent question-answering over PDF documents. It leverages Google Gemini LLM, LangChain orchestration, and ChromaDB for semantic search to provide accurate, context-grounded responses.
 
+## Architecture 
+<img width="1275" height="693" alt="updated_RAG_doc" src="https://github.com/user-attachments/assets/91553a38-57f4-4260-a3ee-bfe7ea3b4727" />
+
+
 ## 🚀 Tech Stack
 
 * **Environment:** Databricks (PySpark)
@@ -86,6 +90,9 @@ The notebook demonstrates queries like:
 - "What is the total bill amount?"
 - "What is the last date to pay the bill and what are the charges for late payment?"
 - "Can you break down the total bill charges?"
+
+<img width="1427" height="592" alt="Screenshot 2025-12-15 172555" src="https://github.com/user-attachments/assets/e9c15e4e-4b2f-405b-9b81-ed3773d13cab" />
+
 
 ## 🎯 Key Features
 * **Semantic Search:** Uses embeddings for intelligent document retrieval.
